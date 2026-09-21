@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0051-n-queens) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
@@ -21,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0037-sudoku-solver) |
+| [0051-n-queens](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0051-n-queens) |
 ## Dancing Links
 |  |
 | ------- |
