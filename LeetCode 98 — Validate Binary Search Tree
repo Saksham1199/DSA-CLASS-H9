@@ -1,0 +1,13 @@
+
+class Solution {
+    public boolean isValidBST(TreeNode root) {
+        return check(root, Long.MIN_VALUE, Long.MAX_VALUE);
+    }
+
+    boolean check(TreeNode r, long min, long max) {
+        if (r == null) return true;
+        if (r.val <= min || r.val >= max) return false;
+        return check(r.left, min, r.val) &&
+               check(r.right, r.val, max);
+    }
+}
