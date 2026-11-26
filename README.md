@@ -39,4 +39,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0079-word-search) |
+| [0743-network-delay-time](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0743-network-delay-time) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0743-network-delay-time) |
+## Graph Theory
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0743-network-delay-time) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0743-network-delay-time) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Saksham1199/DSA-CLASS-H9/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
